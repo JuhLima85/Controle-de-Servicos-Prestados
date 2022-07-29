@@ -1,5 +1,5 @@
 # Controle de Serviços Prestados 
-[![NPM](https://github.com/JuhLima85/Controle-de-Servicos-Prestados/blob/main/licence) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JuhLima85/Controle-de-Servicos-Prestados/blob/main/licence)
 
 # Sobre o projeto
 
